@@ -5,8 +5,6 @@ while True:
     os.system("cls")
     print(lista_cadastro)
 
-
-
     nome = input("digite um nome: ")
     idade = int(input("digite a idade: "))
 
